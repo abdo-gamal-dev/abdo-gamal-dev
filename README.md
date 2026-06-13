@@ -9,16 +9,13 @@
 <br />
 
 <a href="https://abdulrahman-portfolio-ebon.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-67E8F9?style=for-the-badge&logo=vercel&logoColor=020617" />
+  <img src="https://img.shields.io/badge/Portfolio-67E8F9?style=for-the-badge&logo=vercel&logoColor=020617&labelColor=67E8F9&color=67E8F9" />
 </a>
 <a href="https://linkedin.com/in/abdulrahman-gamal11">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" />
 </a>
 <a href="mailto:abdulrahman.tawfeek1@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/abdo-gamal-dev">
-  <img src="https://komarev.com/ghpvc/?username=abdo-gamal-dev&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" />
 </a>
 
 </div>
@@ -30,6 +27,7 @@
 I am **Abdulrahman Gamal**, a **Full Stack Software Engineer** focused on building responsive, scalable, and user-friendly web applications.
 
 I work with modern frontend and backend technologies including **React.js**, **Next.js**, **Django**, **REST APIs**, and database-driven systems.
+
 I also have an academic background in **Artificial Intelligence**, **Machine Learning**, **Data Mining**, and **NLP**, which helps me approach software development with strong problem-solving and analytical thinking.
 
 ```ts
